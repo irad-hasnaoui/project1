@@ -1,0 +1,40 @@
+body{
+    background-image: url("assets-cached.jpg");
+}
+
+
+header h1{
+    color: rgb(213, 71, 23);
+    
+    padding: 20px;
+}
+
+header h3{
+    color: white ;
+    padding: 20px;
+}
+
+footer .social-media {
+  display: flex;
+}
+
+footer h4 {
+  color: rgb(213, 71, 23);
+    
+  
+
+}
+
+footer h5 {
+  color: rgb(255, 255, 255);
+    
+
+}
+
+footer h1{
+  color:  rgb(213, 71, 23);;
+}
+
+footer h6{
+  color: white;
+}
